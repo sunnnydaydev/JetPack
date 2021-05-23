@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/md/2、DataStore(目前不是很重要).md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/md/3、ViewBinding(貌似实现mvvm不用也行).md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/md/4、ViewModel.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/md/5、LifeCycle.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/md/6、LiveData.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/md/7、Room.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/md/参考.md" charset="GBK" />
+  </component>
+</project>
