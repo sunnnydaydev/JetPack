@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/md/1、Startup.md" charset="GBK" />
     <file url="file://$PROJECT_DIR$/md/2、DataStore(目前不是很重要).md" charset="GBK" />
     <file url="file://$PROJECT_DIR$/md/3、ViewBinding(貌似实现mvvm不用也行).md" charset="GBK" />
     <file url="file://$PROJECT_DIR$/md/4、ViewModel.md" charset="GBK" />
