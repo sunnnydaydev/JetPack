@@ -16,6 +16,8 @@
 
 ###### [8、DataBinding](https://github.com/sunnnydaydev/DataBingding)
 
+###### [依赖注入DI](https://github.com/sunnnydaydev/DI)
+
 ###### 参考
 
 [官方文档](https://developer.android.google.cn/topic/libraries/architecture?hl=zh_cn)
